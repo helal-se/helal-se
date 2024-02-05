@@ -11,10 +11,11 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=#1F8ACB&style=flat-square)](https://codeforces.com/profile/Yuji)
 
 ## Tech Stack:
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-015482?logo=c%2B%2B&logoColor=white&style=flat-square)](https://en.cppreference.com/w/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/index.html)
 [![C#](https://img.shields.io/badge/CSharp-512BD4?logo=csharp&logoColor=white&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/)
-[![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/index.html)
 
 ## Tools:
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
