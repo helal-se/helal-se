@@ -7,6 +7,7 @@
 
 ## Profiles:
 [![LinkTree](https://img.shields.io/badge/Linktree-254F1A?logo=linktree&logoColor=white&style=flat-square)](https://linktr.ee/hel4l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hel4l)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/hel4l)
 
 ## Tech Stack:
