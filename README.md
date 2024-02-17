@@ -1,9 +1,9 @@
 ## About Me:
-- 🧑‍💻 CS Student at Faculty of Computers and Artificial Intelligence
-- 🚀 Coding enthusiast, passionate about problem-solving
-- 🔭 Exploring backend development with a focus on .NET
-- 🌱 Eager to expand knowledge and skills
-- 📫 Feel free to contact me anytime!
+```
+- CS student passionate about coding and problem-solving.
+- Learning backend development, focusing on .NET technologies.
+- Feel free to contact me anytime.
+```
 
 ## Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hel4l)
