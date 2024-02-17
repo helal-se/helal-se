@@ -1,8 +1,8 @@
 ## About Me:
 ```
-- CS student passionate about coding and problem-solving.
-- Learning backend development, focusing on .NET technologies.
-- Feel free to contact me anytime.
+- computer science student passionate about coding and problem-solving.
+- learning backend development, focusing on .NET technologies.
+- feel free to contact me anytime.
 ```
 
 ## Profiles:
