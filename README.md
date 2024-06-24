@@ -20,7 +20,10 @@
 [![Git](https://img.shields.io/badge/Git-0d1117?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?logo=github&logoColor=white&style=flat-square)](https://github.com/)
 [![JetBrains](https://img.shields.io/badge/JetBrains-0d1117?logo=jetbrains&logoColor=white&style=flat-square)](https://www.jetbrains.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?logo=visualstudiocode&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0d1117?logo=visual-studio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
+
+
 
 ## GitHub Stats:
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hel4l&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Hel4l) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hel4l&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Hel4l) |
