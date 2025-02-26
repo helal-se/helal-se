@@ -6,8 +6,8 @@
 ```
 
 ## Profiles:
-[![LinkTree](https://img.shields.io/badge/linktree-0d1117?logo=linktree&logoColor=white&style=flat-square)](https://linktr.ee/hel4l)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hel4l)
+[![LinkTree](https://img.shields.io/badge/linktree-0d1117?logo=linktree&logoColor=white&style=flat-square)](https://linktr.ee/helal.se)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hazemhelal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/hel4l)
 
 ## Tech Stack:
