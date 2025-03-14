@@ -26,5 +26,5 @@
 
 
 ## GitHub Stats:
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hel4l&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Hel4l) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hel4l&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Hel4l) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helal-se&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/helal-se) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helal-se&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/helal-se) |
 | ------------------------ | ------------------ |
